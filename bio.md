@@ -1,1 +1,1 @@
-A codesnap user.
+Currently student at Hack Reactor.  Co-founder of CodeSnap.  Currently exploring full-time opportunities as a full-stack engineer.  Expertise in Javascript and Angular, experience with Python, Django.
