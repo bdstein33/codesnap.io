@@ -1,6 +1,6 @@
 
 ---
-title: JavaScript Instantiation Patterns Are Cool!
+title: JavaScript Instantiation Patterns
 tags: Javascript, Angular, Backbone, Bookshelf.js
 ---
 
