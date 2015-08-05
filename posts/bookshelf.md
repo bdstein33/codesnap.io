@@ -8,7 +8,7 @@ Using an object-relational mapper (ORM) to interact with a database in your node
 
 Before we get started, it’s important to understand the relationship between Bookshelf and Knex.  Bookshelf is an ORM for Node.js that is build on the Knex SQL query builder.
 
-##1. Connect to Database
+### 1. Connect to Database
 
 First we must establish our connection to the database.  Client is the SQL server you are working with (e.g. MySQL, Postgres, SQLite, etc.).  In a development environment, your host will most likely be 127.0.0.1.  You’re user and password are specific to the login credentials you established when you set up your SQL server.  After you establish your connection, you should pass this connection into require(‘bookshelf’) so that your Bookshelf instances have access to the database.  I usually contain this code within a db.js file.
 
