@@ -1,1 +1,1 @@
-Currently freelancing for startups in the e-commerce and entertainment space. I've worked with a variety of technologies and love using JavaScript.  Recently I have been spending a lot of time building full stack web apps with Angular and Node but also have experince with Python/Django. 
+I'm a full stack software engineer.  Recently I've spent a lot of time building full stack web apps with Angular and Node but also have experince with Python/Django. 
